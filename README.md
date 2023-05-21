@@ -1,3 +1,7 @@
+# Movie Search App
+
+# Description
+This is a React-based movie search application that allows users to search for movies using a search form. It utilizes custom hooks for separation of concerns and enhanced reusability. The app also includes features like sorting movies by title using a checkbox input that triggers the sorting function when checked.
 
 ## Features
 
